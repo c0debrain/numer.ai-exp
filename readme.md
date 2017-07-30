@@ -1,5 +1,5 @@
 # About
-Stock Market prediction using [Keras](https://keras.io) and [Numer.ai](htts://numer.ai) data.
+Stock Market prediction using [Keras](https://keras.io) and [Numer.ai](https://numer.ai) data.
 
 # Requirements
 - Python 2.7.10
